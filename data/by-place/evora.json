@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.evora@PrompTugal.dinis",
  "mandate": "PrompTugal.news Évora: AI and technology in Évora, a university city in the Alentejo whose centre of gravity is the Universidade de Évora, the PACT science park and the public hospital, and what reaches Évora from the Alentejo, Portugal and the world. Independent. Every fact sourced.",
  "gravity": {
@@ -471,26 +471,92 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.evora@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Universidade de Évora recebe primeiro encontro de jovens investigadores",
-   "url": "https://odigital.sapo.pt/universidade-evora-encontro-jovens-investigadores-ecij-2026/",
+   "title": "Universidade de Évora quer criar em Monsaraz uma base permanente para simular missões espaciais",
+   "url": "https://odigital.sapo.pt/universidade-evora-base-investigacao-espacial-monsaraz/",
    "source": "ODigital",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:30:26Z",
+   "read_at": "2026-11-28T07:29:40Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Reguengos de Monsaraz celebra o Natal com iniciativas em todo o concelho",
-    "url": "https://odigital.sapo.pt/natal-reguengos-de-monsaraz-2026-programa/",
-    "published": "2026-11-27T18:30Z",
+    "title": "O sonho de infância de Leonel Godinho por trás da simulação de uma missão a Marte no Alqueva",
+    "url": "https://odigital.sapo.pt/leonel-godinho-sonho-missao-marte-alqueva/",
+    "published": "2026-11-27T22:49Z",
     "source": "ODigital",
     "source_site": "https://odigital.sapo.pt/",
     "feed": "https://odigital.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:26Z",
+    "read_at": "2026-11-28T07:29:40Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Comandante João Lousada explica a simulação de uma missão a Marte no Alqueva: “Queremos encontrar problemas”",
+    "url": "https://odigital.sapo.pt/joao-lousada-amadee-27-missao-marte-alqueva/",
+    "published": "2026-11-27T22:37Z",
+    "source": "ODigital",
+    "source_site": "https://odigital.sapo.pt/",
+    "feed": "https://odigital.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:29:40Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Simulação de missão a Marte no Alqueva terá 17 experiências, duas portuguesas",
+    "url": "https://odigital.sapo.pt/missao-marte-alqueva-17-experiencias-amadee-27/",
+    "published": "2026-11-27T22:27Z",
+    "source": "ODigital",
+    "source_site": "https://odigital.sapo.pt/",
+    "feed": "https://odigital.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:29:40Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Universidade de Évora quer criar em Monsaraz uma base permanente para simular missões espaciais",
+    "url": "https://odigital.sapo.pt/universidade-evora-base-investigacao-espacial-monsaraz/",
+    "published": "2026-11-27T22:13Z",
+    "source": "ODigital",
+    "source_site": "https://odigital.sapo.pt/",
+    "feed": "https://odigital.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:29:40Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Acordo para simular missão a Marte no Alqueva assinado em Évora (c/fotos)",
+    "url": "https://odigital.sapo.pt/amadee-27-missao-marte-alqueva-acordo-evora/",
+    "published": "2026-11-27T21:59Z",
+    "source": "ODigital",
+    "source_site": "https://odigital.sapo.pt/",
+    "feed": "https://odigital.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:29:40Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Casal condenado a 22 anos de prisão por matar idoso no concelho de Aljustrel",
+    "url": "https://odigital.sapo.pt/casal-22-anos-prisao-morte-idoso-aljustrel/",
+    "published": "2026-11-27T21:08Z",
+    "source": "ODigital",
+    "source_site": "https://odigital.sapo.pt/",
+    "feed": "https://odigital.sapo.pt/feed/",
+    "read_at": "2026-11-28T07:29:40Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Roncas de Elvas deram o mote para a abertura de mais uma edição do Elvas Cidade Natal",
+    "url": "https://www.perspetiva.com/regional/roncas-de-elvas-deram-o-mote-para-a-abertura-de-mais-uma-edicao-do-elvas-cidade-natal",
+    "published": "2026-11-27T21:05Z",
+    "source": "Perspetiva",
+    "source_site": "https://www.perspetiva.com/",
+    "feed": "https://www.perspetiva.com/feed/",
+    "read_at": "2026-11-28T07:29:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -501,29 +567,7 @@
     "source": "TDS (Televisão do Sul)",
     "source_site": "https://televisaodosul.pt/",
     "feed": "https://televisaodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:31Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Vila Viçosa: Natal em Bencatel com presépio vivo, Pais Natal em mota e Janeiras",
-    "url": "https://odigital.sapo.pt/natal-bencatel-2026-programa-presepio-vivo-janeiras/",
-    "published": "2026-11-27T18:00Z",
-    "source": "ODigital",
-    "source_site": "https://odigital.sapo.pt/",
-    "feed": "https://odigital.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:26Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "CCDR Alentejo leva técnicos a conhecer o regadio no Alqueva e em duas herdades",
-    "url": "https://odigital.sapo.pt/ccdr-alentejo-regadio-alqueva/",
-    "published": "2026-11-27T17:30Z",
-    "source": "ODigital",
-    "source_site": "https://odigital.sapo.pt/",
-    "feed": "https://odigital.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:26Z",
+    "read_at": "2026-11-28T07:29:45Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -534,7 +578,7 @@
     "source": "TDS (Televisão do Sul)",
     "source_site": "https://televisaodosul.pt/",
     "feed": "https://televisaodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:31Z",
+    "read_at": "2026-11-28T07:29:45Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -545,40 +589,7 @@
     "source": "TDS (Televisão do Sul)",
     "source_site": "https://televisaodosul.pt/",
     "feed": "https://televisaodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:31Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Universidade de Évora recebe primeiro encontro de jovens investigadores",
-    "url": "https://odigital.sapo.pt/universidade-evora-encontro-jovens-investigadores-ecij-2026/",
-    "published": "2026-11-27T17:00Z",
-    "source": "ODigital",
-    "source_site": "https://odigital.sapo.pt/",
-    "feed": "https://odigital.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:26Z",
-    "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Bombeiros voluntários de Castro Verde têm nova Equipa de Intervenção Permanente",
-    "url": "https://odigital.sapo.pt/bombeiros-castro-verde-nova-equipa-intervencao-permanente/",
-    "published": "2026-11-27T16:30Z",
-    "source": "ODigital",
-    "source_site": "https://odigital.sapo.pt/",
-    "feed": "https://odigital.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:26Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Elsa Falé criou o Alentejo Market depois de vender cerâmica noutros mercados",
-    "url": "https://odigital.sapo.pt/elsa-fale-criacao-alentejo-market-evora/",
-    "published": "2026-11-27T16:00Z",
-    "source": "ODigital",
-    "source_site": "https://odigital.sapo.pt/",
-    "feed": "https://odigital.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:26Z",
+    "read_at": "2026-11-28T07:29:45Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -589,7 +600,7 @@
     "source": "Diário do Sul",
     "source_site": "https://diariodosul.pt/",
     "feed": "https://diariodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:24Z",
+    "read_at": "2026-11-28T07:29:38Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -600,7 +611,7 @@
     "source": "Perspetiva",
     "source_site": "https://www.perspetiva.com/",
     "feed": "https://www.perspetiva.com/feed/",
-    "read_at": "2026-11-27T18:30:29Z",
+    "read_at": "2026-11-28T07:29:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -611,7 +622,7 @@
     "source": "Diário do Sul",
     "source_site": "https://diariodosul.pt/",
     "feed": "https://diariodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:24Z",
+    "read_at": "2026-11-28T07:29:38Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -622,7 +633,7 @@
     "source": "Diário do Sul",
     "source_site": "https://diariodosul.pt/",
     "feed": "https://diariodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:24Z",
+    "read_at": "2026-11-28T07:29:38Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -633,7 +644,7 @@
     "source": "Diário do Sul",
     "source_site": "https://diariodosul.pt/",
     "feed": "https://diariodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:24Z",
+    "read_at": "2026-11-28T07:29:38Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -644,7 +655,7 @@
     "source": "Diário do Sul",
     "source_site": "https://diariodosul.pt/",
     "feed": "https://diariodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:24Z",
+    "read_at": "2026-11-28T07:29:38Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -655,7 +666,7 @@
     "source": "Perspetiva",
     "source_site": "https://www.perspetiva.com/",
     "feed": "https://www.perspetiva.com/feed/",
-    "read_at": "2026-11-27T18:30:29Z",
+    "read_at": "2026-11-28T07:29:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -666,7 +677,7 @@
     "source": "Perspetiva",
     "source_site": "https://www.perspetiva.com/",
     "feed": "https://www.perspetiva.com/feed/",
-    "read_at": "2026-11-27T18:30:29Z",
+    "read_at": "2026-11-28T07:29:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -677,7 +688,7 @@
     "source": "Diário do Sul",
     "source_site": "https://diariodosul.pt/",
     "feed": "https://diariodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:24Z",
+    "read_at": "2026-11-28T07:29:38Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -688,7 +699,7 @@
     "source": "Perspetiva",
     "source_site": "https://www.perspetiva.com/",
     "feed": "https://www.perspetiva.com/feed/",
-    "read_at": "2026-11-27T18:30:29Z",
+    "read_at": "2026-11-28T07:29:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -699,7 +710,7 @@
     "source": "Perspetiva",
     "source_site": "https://www.perspetiva.com/",
     "feed": "https://www.perspetiva.com/feed/",
-    "read_at": "2026-11-27T18:30:29Z",
+    "read_at": "2026-11-28T07:29:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -710,7 +721,7 @@
     "source": "TDS (Televisão do Sul)",
     "source_site": "https://televisaodosul.pt/",
     "feed": "https://televisaodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:31Z",
+    "read_at": "2026-11-28T07:29:45Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -721,7 +732,7 @@
     "source": "TDS (Televisão do Sul)",
     "source_site": "https://televisaodosul.pt/",
     "feed": "https://televisaodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:31Z",
+    "read_at": "2026-11-28T07:29:45Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -732,20 +743,9 @@
     "source": "TDS (Televisão do Sul)",
     "source_site": "https://televisaodosul.pt/",
     "feed": "https://televisaodosul.pt/feed/",
-    "read_at": "2026-11-27T18:30:31Z",
+    "read_at": "2026-11-28T07:29:45Z",
     "mentions_place": false,
     "date": "2026-11-27"
-   },
-   {
-    "title": "Cozinha dos Ganhões regressa a Estremoz com sabores, tradições e animação até domingo",
-    "url": "https://www.perspetiva.com/regional/cozinha-dos-ganhoes-regressa-a-estremoz-com-sabores-tradicoes-e-animacao-ate-domingo",
-    "published": "2026-11-26T22:59Z",
-    "source": "Perspetiva",
-    "source_site": "https://www.perspetiva.com/",
-    "feed": "https://www.perspetiva.com/feed/",
-    "read_at": "2026-11-27T18:30:29Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
    },
    {
     "title": "Árvore de Natal instalada na Praça de Giraldo alvo de vandalismo",
@@ -754,7 +754,7 @@
     "source": "A Voz de Évora",
     "source_site": "https://avozdeevora.sapo.pt/",
     "feed": "https://avozdeevora.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:19Z",
+    "read_at": "2026-11-28T07:29:35Z",
     "mentions_place": false,
     "date": null
    },
@@ -765,7 +765,7 @@
     "source": "A Voz de Évora",
     "source_site": "https://avozdeevora.sapo.pt/",
     "feed": "https://avozdeevora.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:19Z",
+    "read_at": "2026-11-28T07:29:35Z",
     "mentions_place": false,
     "date": null
    },
@@ -776,7 +776,7 @@
     "source": "A Voz de Évora",
     "source_site": "https://avozdeevora.sapo.pt/",
     "feed": "https://avozdeevora.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:19Z",
+    "read_at": "2026-11-28T07:29:35Z",
     "mentions_place": false,
     "date": null
    },
@@ -787,7 +787,7 @@
     "source": "A Voz de Évora",
     "source_site": "https://avozdeevora.sapo.pt/",
     "feed": "https://avozdeevora.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:19Z",
+    "read_at": "2026-11-28T07:29:35Z",
     "mentions_place": false,
     "date": null
    },
@@ -798,7 +798,7 @@
     "source": "A Voz de Évora",
     "source_site": "https://avozdeevora.sapo.pt/",
     "feed": "https://avozdeevora.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:19Z",
+    "read_at": "2026-11-28T07:29:35Z",
     "mentions_place": true,
     "date": null
    },
@@ -809,7 +809,7 @@
     "source": "A Voz de Évora",
     "source_site": "https://avozdeevora.sapo.pt/",
     "feed": "https://avozdeevora.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:30:19Z",
+    "read_at": "2026-11-28T07:29:35Z",
     "mentions_place": true,
     "date": null
    }
